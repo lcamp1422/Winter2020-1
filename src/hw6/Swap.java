@@ -17,5 +17,7 @@ public class Swap {
 		a = b;
 		b = temp;
 	}
-
+	public static void levi() {
+		System.out.println("levi");
+	}
 }
